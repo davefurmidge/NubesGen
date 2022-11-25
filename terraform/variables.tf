@@ -1,7 +1,7 @@
 variable "application_name" {
   type        = string
   description = "The name of your application"
-  default     = "demo-7153-2091"
+  default     = "demo-2779-5359"
 }
 
 variable "terraform_storage_account" {
