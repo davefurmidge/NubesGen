@@ -1,12 +1,5 @@
 name: GitOps
 
-###
-# GitOps - automatic infrastructure management GitHub Action
-#
-# See https://docs.nubesgen.com/gitops/gitops-quick-start/
-# for more information about using GitOps with NubesGen.
-###
-
 on:
   push:
     branches:
